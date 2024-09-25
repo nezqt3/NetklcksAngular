@@ -1,1 +1,1 @@
-Angular Project wuth Glo Academy
+Angular Project with Glo Academy
